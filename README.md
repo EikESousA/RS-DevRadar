@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/08G1HFN.png" alt="Sublime's custom image"/>
+  <img src="" alt="Sublime's custom image"/>
 </p>
 
 # Semana Omnistack 8.0 - DevRadar - 13/08/2019 - 17/08/2019
