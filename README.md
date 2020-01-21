@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt=""/>
+  <img src="https://i.imgur.com/Ldy3H1ht.jpg" alt="DevRadar"/>
 </p>
 
 # Semana Omnistack 8.0 - DevRadar - 13/08/2019 - 17/08/2019
@@ -20,13 +20,17 @@ Criar um aplicativo parecido com o Waze para Desenvolvendores chamado DevRadar.
 ## 03) Dependências utilizadas
 
 * Back-end: express, nodemon, mongoose, axios, cors, socket.io
-* Front-end Web: axios, react-dom, react-router-dom, react-scripts, socket.io-client
-* Front-end Mobile: axios, react-navigation, socket.io-client
+* Front-end Web: axios
+* Front-end Mobile: axios, expo, socket.io-client
 
 ## 04) Telas
 
 ### Web
 
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://i.imgur.com/zpGe8a5l.png)
+
+### Mobile
+
+![alt text](https://i.imgur.com/ZIvqvJvm.jpg)
+![alt text](https://i.imgur.com/q4DwxqAm.jpg)
+
