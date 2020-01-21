@@ -2,13 +2,13 @@
   <img src="https://i.imgur.com/Ldy3H1ht.jpg" alt="DevRadar"/>
 </p>
 
-# Semana Omnistack 8.0 - DevRadar - 13/08/2019 - 17/08/2019
+# Semana Omnistack 10.0 - DevRadar - 13/01/2020 - 17/01/2020
 
 ![alt text](https://i.imgur.com/rrToM6L.png?2) Curso da Semana Oministack 10.0 realizado pela RocketSeat (https://rocketseat.com.br/).
 
 ## 01) Objetivo
 
-Criar um aplicativo parecido com o Waze para Desenvolvendores chamado DevRadar.
+Criar um aplicativo onde mostrar os desenvolvedores de tecnologias proximas a você para Desenvolvendores chamado DevRadar.
 
 ## 02) Tecnologias utilizadas
 
