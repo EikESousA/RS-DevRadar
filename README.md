@@ -19,7 +19,7 @@
     <a href="#-prévia-da-aplicação"> 🔥 Prévia da Aplicação </a> |    
     <a href="#-deploy-da-aplicação"> 🔨 Deploy da Aplicação </a> |
     <a href="#-executando-o-projeto"> ⚡ Executando o Projeto </a> |
-    <a href="#-como-contribuir?"> 🤔 Como Contribuir? </a> |    
+    <a href="#-como-contribuir?"> 🤔 Como Contribuir? </a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center" style="margin: 50px;">
   <div style="margin: 50px;">
-    <img alt="tela web um" src="./img/web-1.png" width="600" heigth="300" style="margin: 50px;"/>
+    <img alt="tela web um" src="./img/web-1.jpeg" width="600" heigth="300" style="margin: 50px;"/>
   </div>
   <div style="margin: 50px;">
     <img alt="tela mobile um" src="./img/mobile-1.jpg" width="200" heigth="150" style="margin: 50px;"/>
